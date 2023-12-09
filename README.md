@@ -12,7 +12,8 @@ chat
 - `import/export` sessions
 - `F9/shift+F9` shift between code boxes in prompt answer
 - `/createWorkspace <prompt>` creates a workspace with a repo servicing the prompt
-  `/createNotebook <prompt>` idem for a notebook
+- `/createNotebook <prompt>` idem for a notebook
+- `command+shift+I` ask a one off question to copilot
 
 sources:
 
