@@ -15,6 +15,7 @@ chat
 - `/createNotebook <prompt>` idem for a notebook
 - `command+shift+I` ask a one off question to copilot
 - `@workspace` ask something about the entire workspace
+- `@terminal` ask something related to the terminal history
 
 sources:
 
