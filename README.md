@@ -14,6 +14,7 @@ chat
 - `/createWorkspace <prompt>` creates a workspace with a repo servicing the prompt
 - `/createNotebook <prompt>` idem for a notebook
 - `command+shift+I` ask a one off question to copilot
+- `@workspace` ask something about the entire workspace
 
 sources:
 
